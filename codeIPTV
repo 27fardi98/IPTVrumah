@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1428930977221419008/PX6O-eCu_400x400.jpg" group-title="nasional", OWNER
+https://www.youtube.com/watch?v=N5iCam3hHAk
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyWXD5DD/antv.png" group-title="nasional", ANTV
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="nasional", TVONE
+https://iptv.mwafa.net/dm?id=k2uDgtBgdyXR1AoH4XD&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="nasional", SCTV
+https://iptv.mwafa.net/vidio?id=204&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13Nm4VLb/20191010-164600.png" group-title="nasional", RCTI
+https://iptv.mwafa.net/vidio?id=665&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J7JSycnN/logo-transtv-big1.png" group-title="nasional", TRANS TV
+https://iptv.mwafa.net/vidio?id=733&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="nasional", TRANS 7
+https://iptv.mwafa.net/vidio?id=734&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rw8620qS/20191026-003920.png" group-title="nasional", MNCTV
+https://iptv.mwafa.net/vidio?id=870&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="nasional", GTV
+https://iptv.mwafa.net/vidio?id=778&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCYc7yzg/metrotv.png" group-title="nasional", METROTV
+https://iptv.mwafa.net/vidio?id=777&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28DMnbbP/logo-net-big1.png" group-title="nasional", NET
+https://iptv.mwafa.net/vidio?id=875&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="nasional", INDOSIAR
+https://iptv.mwafa.net/vidio?id=205&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="nasional", INEWS
+https://iptv.mwafa.net/vidio?id=5409&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fb172pW8/rajawalitv.png" group-title="nasional", RTV
+https://iptv.mwafa.net/vidio?id=1561&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/25hnd6BK/logo-kompastv-small.png" group-title="nasional", KOMPAS TV
+https://iptv.mwafa.net/vidio?id=874&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="nasional", TVRI
+https://iptv.mwafa.net/vidio?id=6441&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCs7LSC5/2053221245.png" group-title="sport", MOLA TV FREE
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DznwDyMD/LOGO-JOGJA-TV-NEW-pii-new1.png" group-title="local", JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRSCLN9r/14040386.jpg" group-title="local", TEGAR TV
+http://wms.klikhost.com/tegartv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI DKI JAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VH7TANA.png" group-title="local", TVRI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI JAWA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPvtrgk.png" group-title="local", TVRI JAWA BARAT
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI JAWA TENGAH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI JAWA TIMUR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIwYxS9.png" group-title="local", TVRI KANAL 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cL83ZHTL/logo-tvri-small1.png" group-title="local", TVRI YOGYAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="news", CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NG7pqNFz/1200px-CNN-Indonesia-svg.png" group-title="news", CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4NYX1rXH/1605703972662.jpg" group-title="news", SEA TV
+https://iptv.mwafa.net/vidio?id=7687&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1f5Yhzp/14040323.png" group-title="news", BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDHvjYg7/image.jpg" group-title="music", MUSICA
+https://iptv.mwafa.net/vidio?id=7619&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="music", KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYx2hPRP/logo200.jpg" group-title="music", MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DmaMDCBU8AAfd45.png" group-title="music", RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/t4hQSbwJ/PT-OMNI-INTIVISION-OChannel-TV.jpg" group-title="nasional", OCHANNEL
+https://iptv.mwafa.net/vidio?id=206&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FFL4d0p0/Ajwa-TV.png" group-title="nasional", AJWA TV
+https://iptv.mwafa.net/vidio?id=7464&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9frS3jNy/jaktv-official-86b4f8.webp" group-title="nasional", JAKTV
+https://iptv.mwafa.net/vidio?id=5415&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRk5yfjN/oH6OuzvY.jpg" group-title="nasional", OSHOP
+https://iptv.mwafa.net/vidio?id=6166&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zGF38TS/b47iT9f5.jpg" group-title="nasional", MYTV
+https://iptv.mwafa.net/vidio?id=6711&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv1ggqVJ/Nusantara-TV-Indonesia-o-727568.jpg" group-title="nasional", NUSANTARATV
+https://iptv.mwafa.net/vidio?id=7432&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzwhFZHZ/channel-93.png" group-title="nasional", AL QURAN AL KAREEM TV
+https://iptv.mwafa.net/vidio?id=6852&token=1999
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5TnxwsG/1-DAAI-06.jpg" group-title="nasional", DAAI TV
+https://iptv.mwafa.net/vidio?id=6482&token=1999
